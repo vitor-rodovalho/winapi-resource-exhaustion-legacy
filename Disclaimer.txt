@@ -1,0 +1,41 @@
+========================================================================
+                    AVISO IMPORTANTE / IMPORTANT NOTICE
+========================================================================
+
+[PT-BR] PORTUGUÊS
+
+ESTE SOFTWARE É UM PROJETO ACADÊMICO DE ESTRESSE DE SISTEMA (PRANKWARE).
+
+AO CONTINUAR, VOCÊ ESTÁ CIENTE QUE:
+1. Este programa abrirá múltiplas janelas do navegador e pastas do sistema repetidamente.
+2. O objetivo é consumir a memória RAM disponível até atingir um limite crítico.
+3. O computador será REINICIADO AUTOMATICAMENTE ao final do processo.
+
+RECOMENDAÇÃO CRÍTICA:
+SALVE TODO O SEU TRABALHO AGORA E FECHE OUTROS PROGRAMAS.
+
+ISENÇÃO DE RESPONSABILIDADE:
+O autor não se responsabiliza por qualquer perda de dados, corrupção de arquivos ou travamentos do sistema operacional decorrentes da execução deste código. Use por sua conta e risco.
+
+Para iniciar o processo, feche este arquivo e pressione ENTER no console.
+
+------------------------------------------------------------------------
+
+[EN] ENGLISH
+
+THIS SOFTWARE IS AN ACADEMIC SYSTEM STRESS PROJECT (PRANKWARE).
+
+BY CONTINUING, YOU ACKNOWLEDGE THAT:
+1. This program will repeatedly open multiple browser tabs and system folders.
+2. The goal is to consume available RAM until a critical threshold is reached.
+3. The computer will AUTOMATICALLY RESTART at the end of the process.
+
+CRITICAL RECOMMENDATION:
+SAVE ALL YOUR WORK NOW AND CLOSE OTHER APPLICATIONS.
+
+DISCLAIMER:
+The author is not responsible for any data loss, file corruption, or OS crashes resulting from the execution of this code. Use at your own risk.
+
+To start the process, close this file and press ENTER in the console.
+
+========================================================================
